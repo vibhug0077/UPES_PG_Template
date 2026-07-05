@@ -77,7 +77,7 @@ UPES_PG/
 | Folder | Description |
 |---------|-------------|
 | 📂 **[_resources](./_resources)** | Images, logos, screenshots, templates, and supporting resources used throughout the repository. |
-| 🌐 **[Portfolio](./Portfolio)** | Create your professional portfolio website, upload your CV, profile photo, and GitHub Pages website. |
+| 🌐 **[Portfolio](./docs)** | Create your professional portfolio website, upload your CV, profile photo, and GitHub Pages website. |
 | 💻 **[Projects](./Projects)** | Store semester projects, source code, datasets, reports, presentations, and documentation. |
 | 🔬 **[Research](./Research)** | Maintain your research proposal, literature review, experiments, results, and publication material. |
 | 🚀 **[Starter_Page](./Starter_Page)** | Step-by-step installation guides for Git, GitHub, VS Code, Python, C++, and repository setup. |
