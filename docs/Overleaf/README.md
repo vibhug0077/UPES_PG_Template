@@ -85,7 +85,7 @@ Give it a name like
 My Resume
 ```
 
-![e918b367d3a700b2de14ef67bb81d766.png](../_resources/e918b367d3a700b2de14ef67bb81d766.png)
+![e918b367d3a700b2de14ef67bb81d766.png](../../_resources/e918b367d3a700b2de14ef67bb81d766.png)
 ---
 
 # Step 3 – Upload the Resume Template
@@ -98,7 +98,7 @@ Upload
 resume.tex
 ```
 
-![bf959cf1bda25b045fd697af66336a95.png](../_resources/bf959cf1bda25b045fd697af66336a95.png)
+![bf959cf1bda25b045fd697af66336a95.png](../../_resources/bf959cf1bda25b045fd697af66336a95.png)
 
 # Step 4 — Compile
 
